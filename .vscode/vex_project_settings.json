@@ -9,10 +9,10 @@
 		"creationDate": "9/17/2026, 10:50:11 AM",
 		"platform": "V5",
 		"language": "python",
-		"slot": 5,
+		"slot": 2,
 		"sdkVersion": "V5_1_0_1_25",
 		"python": {
-			"main": "src/main.py"
+			"main": "src/drive2_key.py"
 		}
 	}
 }
